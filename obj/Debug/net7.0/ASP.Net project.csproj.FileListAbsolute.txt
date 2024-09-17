@@ -1,0 +1,31 @@
+C:\Users\DISS_PC\ASP.Net project\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\DISS_PC\ASP.Net project\bin\Debug\net7.0\appsettings.json
+C:\Users\DISS_PC\ASP.Net project\bin\Debug\net7.0\ASP.Net project.staticwebassets.runtime.json
+C:\Users\DISS_PC\ASP.Net project\bin\Debug\net7.0\ASP.Net project.exe
+C:\Users\DISS_PC\ASP.Net project\bin\Debug\net7.0\ASP.Net project.deps.json
+C:\Users\DISS_PC\ASP.Net project\bin\Debug\net7.0\ASP.Net project.runtimeconfig.json
+C:\Users\DISS_PC\ASP.Net project\bin\Debug\net7.0\ASP.Net project.dll
+C:\Users\DISS_PC\ASP.Net project\bin\Debug\net7.0\ASP.Net project.pdb
+C:\Users\DISS_PC\ASP.Net project\obj\Debug\net7.0\ASP.Net project.csproj.AssemblyReference.cache
+C:\Users\DISS_PC\ASP.Net project\obj\Debug\net7.0\ASP.Net project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DISS_PC\ASP.Net project\obj\Debug\net7.0\ASP.Net project.AssemblyInfoInputs.cache
+C:\Users\DISS_PC\ASP.Net project\obj\Debug\net7.0\ASP.Net project.AssemblyInfo.cs
+C:\Users\DISS_PC\ASP.Net project\obj\Debug\net7.0\ASP.Net project.csproj.CoreCompileInputs.cache
+C:\Users\DISS_PC\ASP.Net project\obj\Debug\net7.0\ASP.Net project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DISS_PC\ASP.Net project\obj\Debug\net7.0\ASP.Net project.RazorAssemblyInfo.cache
+C:\Users\DISS_PC\ASP.Net project\obj\Debug\net7.0\ASP.Net project.RazorAssemblyInfo.cs
+C:\Users\DISS_PC\ASP.Net project\obj\Debug\net7.0\staticwebassets\msbuild.ASP.Net project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DISS_PC\ASP.Net project\obj\Debug\net7.0\staticwebassets\msbuild.build.ASP.Net project.props
+C:\Users\DISS_PC\ASP.Net project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ASP.Net project.props
+C:\Users\DISS_PC\ASP.Net project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ASP.Net project.props
+C:\Users\DISS_PC\ASP.Net project\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\DISS_PC\ASP.Net project\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\DISS_PC\ASP.Net project\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\DISS_PC\ASP.Net project\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\DISS_PC\ASP.Net project\obj\Debug\net7.0\scopedcss\bundle\ASP.Net project.styles.css
+C:\Users\DISS_PC\ASP.Net project\obj\Debug\net7.0\scopedcss\projectbundle\ASP.Net project.bundle.scp.css
+C:\Users\DISS_PC\ASP.Net project\obj\Debug\net7.0\ASP.Net project.dll
+C:\Users\DISS_PC\ASP.Net project\obj\Debug\net7.0\refint\ASP.Net project.dll
+C:\Users\DISS_PC\ASP.Net project\obj\Debug\net7.0\ASP.Net project.pdb
+C:\Users\DISS_PC\ASP.Net project\obj\Debug\net7.0\ASP.Net project.genruntimeconfig.cache
+C:\Users\DISS_PC\ASP.Net project\obj\Debug\net7.0\ref\ASP.Net project.dll

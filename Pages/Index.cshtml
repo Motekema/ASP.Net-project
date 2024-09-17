@@ -1,0 +1,13 @@
+﻿@page
+@model YourNamespace.Pages.IndexModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h1>FizzBuzz</h1>
+<ul>
+    @foreach (var item in Model.FizzBuzz.Numbers)
+    {
+        <li>@item</li>
+    }
+</ul>
