@@ -5,7 +5,7 @@ namespace YourNamespace.Pages
 {
     public class IndexModel : PageModel
     {
-        public FizzBuzzModel FizzBuzz { get; set; }
+        public required FizzBuzzModel FizzBuzz { get; set; }
 
         public void OnGet()
         {
